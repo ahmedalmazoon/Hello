@@ -1,0 +1,54 @@
+.container {
+    margin: 5px;
+    padding: 10px;
+    background-color: gold
+}
+.pages {
+    margin: 5px;
+    padding: 10px;
+    background-color: gold
+}
+.PAGE {
+    margin: 5px;
+    padding: 10px;
+    background-color: gold
+}
+body {
+    background-color: black;
+}
+h1 {
+    color: blanchedalmond
+}
+h3 {
+    color: antiquewhite;
+}
+h4 {
+    color: antiquewhite;
+}
+h2 {
+    color: darksalmon
+}
+ol {
+    color: red;
+}
+.inside {
+    margin: 15px;
+    padding: 10px;
+    height: 210px;
+    width: 700px;
+    background-color: rgb(4, 0, 255)
+}
+img {
+    width: 300;
+}
+.word {
+    margin: 5px;
+    padding: 10px;
+    background-color: tan
+}
+.nav-ba {
+    text-align: center;
+}
+.nav-bare {
+    text-align: center;
+}
